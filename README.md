@@ -72,7 +72,7 @@ $ npm install -g utils-repeat-string
 ### Usage
 
 ``` bash
-Usage: repstr [options] str
+Usage: repstr [options] str --n repeats
 
 Options:
 
