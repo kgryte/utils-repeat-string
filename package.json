@@ -1,6 +1,6 @@
 {
   "name": "utils-repeat-string",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Repeat a string a specified number of times and return the concatenated result.",
   "author": {
     "name": "Athan Reines",
