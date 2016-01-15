@@ -63,4 +63,5 @@ if ( args.version ) {
 
 // REPEAT //
 
-console.log( repeat( args._[0], parseInt( args.n, 10 ) ) );
+process.stdout.write( repeat( args._[0], parseInt( args.n, 10 ) ) + '\n' );
+process.exit( 0 );
