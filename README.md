@@ -86,6 +86,7 @@ Options:
 
 ``` bash
 $ repstr beep -n 5
+# => beepbeepbeepbeepbeep
 ```
 
 
